@@ -14,7 +14,7 @@ int main() {
 	float ergebnis = 10, summe = 0, si = 1;
 	int summanden = 0;
 
-	printf("Summierung der geometrischen Reihe, bis sich die Summe nicht mehr ändert:\n\n");
+	printf("---Summierung der geometrischen Reihe, bis sich die Summe nicht mehr ändert: ---\n\n");
 	while(ergebnis != summe)
 	{
 		ergebnis = summe;
